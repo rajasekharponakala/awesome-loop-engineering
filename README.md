@@ -90,6 +90,7 @@ UI or game loops, growth loops, or generic workflow automation.
 - 📖 [The Tests-First AI Agent Loop for Autonomous Coding](https://micheallanham.substack.com/p/the-tests-first-ai-agent-loop-for) — Tests as the loop's spine and a diff budget capping what each cycle may touch.
 - 📦 [Red/green TDD — Agentic Engineering Patterns](https://simonwillison.net/guides/agentic-engineering-patterns/red-green-tdd/) — A tight test feedback loop that makes agent progress measurable each cycle.
 - 📖 [Automate actions with hooks](https://code.claude.com/docs/en/hooks-guide) — Deterministic lifecycle control: your own scripts gate every model action.
+- 📖 [agent-qa coding-agent verification workflow](https://vostride.com/docs/agent-qa/guides/coding-agent-workflow) — Verify app changes through MCP, inspect evidence, repair failures, and rerun.
 
 ## State, Memory & Persistence
 
